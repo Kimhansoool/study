@@ -1,0 +1,5 @@
+재사용 가능한 UI cva 만들기
+https://velog.io/@yesoryeseul/cva%EB%A1%9C-%EC%9E%AC%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-UI-%EB%A7%8C%EB%93%A4%EA%B8%B0-feat.-cva-class-variance-authority-tailwind-merge-clsx-shadcn
+
+패키지 설치 자료
+react-router-dom prop-types react-helmet-async styled-reset dayjs classnames lodash axios axios-hooks
